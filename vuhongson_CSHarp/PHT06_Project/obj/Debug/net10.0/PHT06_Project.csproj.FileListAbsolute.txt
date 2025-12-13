@@ -1,0 +1,14 @@
+F:\back end\vuhongson_CSHarp\PHT06_Project\bin\Debug\net10.0\PHT06_Project.exe
+F:\back end\vuhongson_CSHarp\PHT06_Project\bin\Debug\net10.0\PHT06_Project.deps.json
+F:\back end\vuhongson_CSHarp\PHT06_Project\bin\Debug\net10.0\PHT06_Project.runtimeconfig.json
+F:\back end\vuhongson_CSHarp\PHT06_Project\bin\Debug\net10.0\PHT06_Project.dll
+F:\back end\vuhongson_CSHarp\PHT06_Project\bin\Debug\net10.0\PHT06_Project.pdb
+F:\back end\vuhongson_CSHarp\PHT06_Project\obj\Debug\net10.0\PHT06_Project.GeneratedMSBuildEditorConfig.editorconfig
+F:\back end\vuhongson_CSHarp\PHT06_Project\obj\Debug\net10.0\PHT06_Project.AssemblyInfoInputs.cache
+F:\back end\vuhongson_CSHarp\PHT06_Project\obj\Debug\net10.0\PHT06_Project.AssemblyInfo.cs
+F:\back end\vuhongson_CSHarp\PHT06_Project\obj\Debug\net10.0\PHT06_Project.csproj.CoreCompileInputs.cache
+F:\back end\vuhongson_CSHarp\PHT06_Project\obj\Debug\net10.0\PHT06_Project.dll
+F:\back end\vuhongson_CSHarp\PHT06_Project\obj\Debug\net10.0\refint\PHT06_Project.dll
+F:\back end\vuhongson_CSHarp\PHT06_Project\obj\Debug\net10.0\PHT06_Project.pdb
+F:\back end\vuhongson_CSHarp\PHT06_Project\obj\Debug\net10.0\PHT06_Project.genruntimeconfig.cache
+F:\back end\vuhongson_CSHarp\PHT06_Project\obj\Debug\net10.0\ref\PHT06_Project.dll
